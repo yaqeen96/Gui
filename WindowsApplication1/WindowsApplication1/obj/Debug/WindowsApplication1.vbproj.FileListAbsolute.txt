@@ -1,0 +1,9 @@
+C:\Users\Taiba\Desktop\GUI LAB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Taiba\Desktop\GUI LAB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Taiba\Desktop\GUI LAB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Taiba\Desktop\GUI LAB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Taiba\Desktop\GUI LAB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Taiba\Desktop\GUI LAB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

@@ -1,0 +1,12 @@
+C:\Users\Taiba\Desktop\GUI LAB\lec12\lec12\bin\Debug\lec12.exe
+C:\Users\Taiba\Desktop\GUI LAB\lec12\lec12\bin\Debug\lec12.pdb
+C:\Users\Taiba\Desktop\GUI LAB\lec12\lec12\bin\Debug\lec12.xml
+C:\Users\Taiba\Desktop\GUI LAB\lec12\lec12\obj\Debug\lec12.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\lec12\lec12\obj\Debug\lec12.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\lec12\lec12\obj\Debug\lec12.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\lec12\lec12\obj\Debug\lec12.exe
+C:\Users\Taiba\Desktop\GUI LAB\lec12\lec12\obj\Debug\lec12.xml
+C:\Users\Taiba\Desktop\GUI LAB\lec12\lec12\obj\Debug\lec12.pdb
+C:\Users\Taiba\Desktop\GUI LAB\file & text\lec12\lec12\obj\Debug\lec12.exe
+C:\Users\Taiba\Desktop\GUI LAB\file & text\lec12\lec12\obj\Debug\lec12.xml
+C:\Users\Taiba\Desktop\GUI LAB\file & text\lec12\lec12\obj\Debug\lec12.pdb

@@ -1,0 +1,9 @@
+C:\Users\Taiba\Desktop\GUI LAB\three file R and W\three file R and W\obj\Debug\three_file_R_and_W.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\three file R and W\three file R and W\obj\Debug\three_file_R_and_W.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\three file R and W\three file R and W\obj\Debug\three file R and W.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\three file R and W\three file R and W\bin\Debug\three file R and W.exe
+C:\Users\Taiba\Desktop\GUI LAB\three file R and W\three file R and W\bin\Debug\three file R and W.pdb
+C:\Users\Taiba\Desktop\GUI LAB\three file R and W\three file R and W\bin\Debug\three file R and W.xml
+C:\Users\Taiba\Desktop\GUI LAB\three file R and W\three file R and W\obj\Debug\three file R and W.exe
+C:\Users\Taiba\Desktop\GUI LAB\three file R and W\three file R and W\obj\Debug\three file R and W.xml
+C:\Users\Taiba\Desktop\GUI LAB\three file R and W\three file R and W\obj\Debug\three file R and W.pdb

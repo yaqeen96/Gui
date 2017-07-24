@@ -1,0 +1,12 @@
+C:\Users\Taiba\Desktop\GUI LAB\theory5\theory5\bin\Debug\theory5.exe
+C:\Users\Taiba\Desktop\GUI LAB\theory5\theory5\bin\Debug\theory5.pdb
+C:\Users\Taiba\Desktop\GUI LAB\theory5\theory5\bin\Debug\theory5.xml
+C:\Users\Taiba\Desktop\GUI LAB\theory5\theory5\obj\Debug\theory5.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\theory5\theory5\obj\Debug\theory5.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\theory5\theory5\obj\Debug\theory5.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\theory5\theory5\obj\Debug\theory5.exe
+C:\Users\Taiba\Desktop\GUI LAB\theory5\theory5\obj\Debug\theory5.xml
+C:\Users\Taiba\Desktop\GUI LAB\theory5\theory5\obj\Debug\theory5.pdb
+C:\Users\Taiba\Desktop\GUI LAB\ofd\theory5\theory5\obj\Debug\theory5.exe
+C:\Users\Taiba\Desktop\GUI LAB\ofd\theory5\theory5\obj\Debug\theory5.xml
+C:\Users\Taiba\Desktop\GUI LAB\ofd\theory5\theory5\obj\Debug\theory5.pdb

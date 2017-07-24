@@ -1,0 +1,8 @@
+ahmed;34;eng
+ali;56;art
+huda;20;techerahmed;34;eng
+ahmed;34;eng
+ali;56;art
+huda;20;techerahmed
+yaqeen;20;eng
+;;

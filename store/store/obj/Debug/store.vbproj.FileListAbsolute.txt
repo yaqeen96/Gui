@@ -1,0 +1,13 @@
+C:\Users\Taiba\Desktop\GUI LAB\store\store\bin\Debug\store.exe
+C:\Users\Taiba\Desktop\GUI LAB\store\store\bin\Debug\store.pdb
+C:\Users\Taiba\Desktop\GUI LAB\store\store\bin\Debug\store.xml
+C:\Users\Taiba\Desktop\GUI LAB\store\store\obj\Debug\store.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\store\store\obj\Debug\store.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\store\store\obj\Debug\store.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\store\store\obj\Debug\store.exe
+C:\Users\Taiba\Desktop\GUI LAB\store\store\obj\Debug\store.xml
+C:\Users\Taiba\Desktop\GUI LAB\store\store\obj\Debug\store.pdb
+C:\Users\Taiba\Desktop\GUI LAB\store\store\obj\Debug\store.Form2.resources
+C:\Users\Taiba\Desktop\GUI LAB\p final\store\store\obj\Debug\store.exe
+C:\Users\Taiba\Desktop\GUI LAB\p final\store\store\obj\Debug\store.xml
+C:\Users\Taiba\Desktop\GUI LAB\p final\store\store\obj\Debug\store.pdb

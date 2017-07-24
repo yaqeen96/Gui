@@ -1,0 +1,9 @@
+C:\Users\Taiba\Desktop\GUI LAB\mid group A\mid group A\bin\Debug\mid group A.exe
+C:\Users\Taiba\Desktop\GUI LAB\mid group A\mid group A\bin\Debug\mid group A.pdb
+C:\Users\Taiba\Desktop\GUI LAB\mid group A\mid group A\bin\Debug\mid group A.xml
+C:\Users\Taiba\Desktop\GUI LAB\mid group A\mid group A\obj\Debug\mid_group_A.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\mid group A\mid group A\obj\Debug\mid_group_A.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\mid group A\mid group A\obj\Debug\mid group A.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\mid group A\mid group A\obj\Debug\mid group A.exe
+C:\Users\Taiba\Desktop\GUI LAB\mid group A\mid group A\obj\Debug\mid group A.xml
+C:\Users\Taiba\Desktop\GUI LAB\mid group A\mid group A\obj\Debug\mid group A.pdb

@@ -1,0 +1,9 @@
+C:\Users\Taiba\Desktop\GUI LAB\calc final\calc final\bin\Debug\calc final.exe
+C:\Users\Taiba\Desktop\GUI LAB\calc final\calc final\bin\Debug\calc final.pdb
+C:\Users\Taiba\Desktop\GUI LAB\calc final\calc final\bin\Debug\calc final.xml
+C:\Users\Taiba\Desktop\GUI LAB\calc final\calc final\obj\Debug\calc_final.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\calc final\calc final\obj\Debug\calc_final.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\calc final\calc final\obj\Debug\calc final.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\calc final\calc final\obj\Debug\calc final.exe
+C:\Users\Taiba\Desktop\GUI LAB\calc final\calc final\obj\Debug\calc final.xml
+C:\Users\Taiba\Desktop\GUI LAB\calc final\calc final\obj\Debug\calc final.pdb

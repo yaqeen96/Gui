@@ -1,0 +1,9 @@
+C:\Users\Taiba\Desktop\GUI LAB\final Q 5\final Q 5\bin\Debug\final Q 5.exe
+C:\Users\Taiba\Desktop\GUI LAB\final Q 5\final Q 5\bin\Debug\final Q 5.pdb
+C:\Users\Taiba\Desktop\GUI LAB\final Q 5\final Q 5\bin\Debug\final Q 5.xml
+C:\Users\Taiba\Desktop\GUI LAB\final Q 5\final Q 5\obj\Debug\final_Q_5.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\final Q 5\final Q 5\obj\Debug\final_Q_5.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\final Q 5\final Q 5\obj\Debug\final Q 5.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\final Q 5\final Q 5\obj\Debug\final Q 5.exe
+C:\Users\Taiba\Desktop\GUI LAB\final Q 5\final Q 5\obj\Debug\final Q 5.xml
+C:\Users\Taiba\Desktop\GUI LAB\final Q 5\final Q 5\obj\Debug\final Q 5.pdb

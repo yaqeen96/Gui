@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lec14", "lec14\lec14.vbproj", "{B1054A08-7473-4CD9-9DC1-689F3F69DDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1054A08-7473-4CD9-9DC1-689F3F69DDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1054A08-7473-4CD9-9DC1-689F3F69DDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1054A08-7473-4CD9-9DC1-689F3F69DDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1054A08-7473-4CD9-9DC1-689F3F69DDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

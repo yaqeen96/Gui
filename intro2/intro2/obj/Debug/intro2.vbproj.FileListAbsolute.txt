@@ -1,0 +1,9 @@
+C:\Users\Taiba\Desktop\GUI LAB\intro2\intro2\bin\Debug\intro2.exe
+C:\Users\Taiba\Desktop\GUI LAB\intro2\intro2\bin\Debug\intro2.pdb
+C:\Users\Taiba\Desktop\GUI LAB\intro2\intro2\bin\Debug\intro2.xml
+C:\Users\Taiba\Desktop\GUI LAB\intro2\intro2\obj\Debug\intro2.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\intro2\intro2\obj\Debug\intro2.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\intro2\intro2\obj\Debug\intro2.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\intro2\intro2\obj\Debug\intro2.exe
+C:\Users\Taiba\Desktop\GUI LAB\intro2\intro2\obj\Debug\intro2.xml
+C:\Users\Taiba\Desktop\GUI LAB\intro2\intro2\obj\Debug\intro2.pdb

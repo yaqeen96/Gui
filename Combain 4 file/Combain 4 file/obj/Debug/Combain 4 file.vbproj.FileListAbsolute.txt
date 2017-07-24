@@ -1,0 +1,9 @@
+C:\Users\Taiba\Desktop\GUI LAB\Combain 4 file\Combain 4 file\obj\Debug\Combain_4_file.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\Combain 4 file\Combain 4 file\obj\Debug\Combain_4_file.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\Combain 4 file\Combain 4 file\obj\Debug\Combain 4 file.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\Combain 4 file\Combain 4 file\bin\Debug\Combain 4 file.exe
+C:\Users\Taiba\Desktop\GUI LAB\Combain 4 file\Combain 4 file\bin\Debug\Combain 4 file.pdb
+C:\Users\Taiba\Desktop\GUI LAB\Combain 4 file\Combain 4 file\bin\Debug\Combain 4 file.xml
+C:\Users\Taiba\Desktop\GUI LAB\Combain 4 file\Combain 4 file\obj\Debug\Combain 4 file.exe
+C:\Users\Taiba\Desktop\GUI LAB\Combain 4 file\Combain 4 file\obj\Debug\Combain 4 file.xml
+C:\Users\Taiba\Desktop\GUI LAB\Combain 4 file\Combain 4 file\obj\Debug\Combain 4 file.pdb

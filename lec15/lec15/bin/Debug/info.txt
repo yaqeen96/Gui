@@ -1,0 +1,5 @@
+yaqeen;3;mornning;2017_4_25
+nada;3;even;2017_4_27
+ula;3;morinning;2017/4/18
+riyam;3;morinning;2107_4_3
+ali;3;even;2107_5_2

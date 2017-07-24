@@ -1,0 +1,9 @@
+C:\Users\Taiba\Desktop\GUI LAB\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\lab6\lab6\obj\Debug\lab6.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\lab6\lab6\obj\Debug\lab6.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\Taiba\Desktop\GUI LAB\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\Taiba\Desktop\GUI LAB\lab6\lab6\bin\Debug\lab6.xml
+C:\Users\Taiba\Desktop\GUI LAB\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\Taiba\Desktop\GUI LAB\lab6\lab6\obj\Debug\lab6.xml
+C:\Users\Taiba\Desktop\GUI LAB\lab6\lab6\obj\Debug\lab6.pdb

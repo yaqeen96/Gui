@@ -1,0 +1,3 @@
+
+yaqeen;math;50
+ali;gui;75

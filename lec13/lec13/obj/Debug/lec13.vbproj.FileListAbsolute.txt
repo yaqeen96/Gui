@@ -1,0 +1,9 @@
+C:\Users\Taiba\Desktop\GUI LAB\lec13\lec13\bin\Debug\lec13.exe
+C:\Users\Taiba\Desktop\GUI LAB\lec13\lec13\bin\Debug\lec13.pdb
+C:\Users\Taiba\Desktop\GUI LAB\lec13\lec13\bin\Debug\lec13.xml
+C:\Users\Taiba\Desktop\GUI LAB\lec13\lec13\obj\Debug\lec13.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\lec13\lec13\obj\Debug\lec13.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\lec13\lec13\obj\Debug\lec13.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\lec13\lec13\obj\Debug\lec13.exe
+C:\Users\Taiba\Desktop\GUI LAB\lec13\lec13\obj\Debug\lec13.xml
+C:\Users\Taiba\Desktop\GUI LAB\lec13\lec13\obj\Debug\lec13.pdb

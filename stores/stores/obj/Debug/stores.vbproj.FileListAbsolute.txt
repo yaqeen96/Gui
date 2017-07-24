@@ -1,0 +1,10 @@
+C:\Users\Taiba\Desktop\GUI LAB\stores\stores\bin\Debug\stores.exe
+C:\Users\Taiba\Desktop\GUI LAB\stores\stores\bin\Debug\stores.pdb
+C:\Users\Taiba\Desktop\GUI LAB\stores\stores\bin\Debug\stores.xml
+C:\Users\Taiba\Desktop\GUI LAB\stores\stores\obj\Debug\stores.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\stores\stores\obj\Debug\stores.Form2.resources
+C:\Users\Taiba\Desktop\GUI LAB\stores\stores\obj\Debug\stores.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\stores\stores\obj\Debug\stores.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\stores\stores\obj\Debug\stores.exe
+C:\Users\Taiba\Desktop\GUI LAB\stores\stores\obj\Debug\stores.xml
+C:\Users\Taiba\Desktop\GUI LAB\stores\stores\obj\Debug\stores.pdb

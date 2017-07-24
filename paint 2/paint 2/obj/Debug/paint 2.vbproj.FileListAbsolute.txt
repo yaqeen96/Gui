@@ -1,0 +1,9 @@
+C:\Users\Taiba\Desktop\GUI LAB\paint 2\paint 2\obj\Debug\paint_2.Form1.resources
+C:\Users\Taiba\Desktop\GUI LAB\paint 2\paint 2\obj\Debug\paint_2.Resources.resources
+C:\Users\Taiba\Desktop\GUI LAB\paint 2\paint 2\obj\Debug\paint 2.vbproj.GenerateResource.Cache
+C:\Users\Taiba\Desktop\GUI LAB\paint 2\paint 2\bin\Debug\paint 2.exe
+C:\Users\Taiba\Desktop\GUI LAB\paint 2\paint 2\bin\Debug\paint 2.pdb
+C:\Users\Taiba\Desktop\GUI LAB\paint 2\paint 2\bin\Debug\paint 2.xml
+C:\Users\Taiba\Desktop\GUI LAB\paint 2\paint 2\obj\Debug\paint 2.exe
+C:\Users\Taiba\Desktop\GUI LAB\paint 2\paint 2\obj\Debug\paint 2.xml
+C:\Users\Taiba\Desktop\GUI LAB\paint 2\paint 2\obj\Debug\paint 2.pdb

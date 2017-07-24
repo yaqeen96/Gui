@@ -1,0 +1,10 @@
+name;age;job
+ahmed;34;eng
+ali;56;art
+huda;20;techer
+fff;78;ttt
+yaqeeen;21;eng
+pp;55;uo
+ty;55;bb
+yyrr;34;eng
+;;
